@@ -1,3 +1,5 @@
+https://yadi.sk/d/93WgqfgP3GzQY3
+
 # app_installation
 install app's via PPA
 
