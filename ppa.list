@@ -1,0 +1,38 @@
+achadwick/mypaint-testing #mypaint mypaint-data-extras mypaint-data-extras mypaint-data mypaint-data 
+adrozdoff/cmake #cmake-data cmake-data cmake 
+alexx2000/doublecmd #doublecmd-plugins doublecmd-gtk doublecmd-common doublecmd-common 
+danielrichter2007/grub-customizer #grub-customizer 
+deluge-team/ppa #libtorrent-rasterbar8 python-libtorrent deluge deluge deluge-gtk deluge-gtk deluge-common deluge-common 
+font-manager/staging #font-viewer font-manager font-manager-common 
+frol/zip-i18n #zip p7zip unzip libnatspec0 p7zip-full 
+gerardpuig/ppa #ubuntu-cleaner ubuntu-cleaner 
+i-nex-development-team/daily #libcpuid14 i-nex 
+inkscape.dev/trunk #inkscape-trunk-data inkscape-trunk-data inkscape-trunk-data inkscape-trunk-data inkscape-trunk 
+jeffreyratcliffe/ppa #libsane-perl gscan2pdf gscan2pdf 
+kxstudio-debian/apps #qjackctl hydrogen hydrogen 
+kxstudio-debian/gcc5 #flac libjack-jackd2-0 hydrogen fontconfig libfontconfig1:i386 jackd2-firewire libfontconfig1-dev libfontconfig1 fontconfig-config fontconfig-config libjack-jackd2-0:i386 jackd2 
+kxstudio-debian/gcc5-deps #flac rubberband-cli wine-rt-amd64 libjack-jackd2-0 libffado2 jackd2-firewire libjack-jackd2-0:i386 wine-rt-i386:i386 wine-rt jackd2 
+kxstudio-debian/kxstudio #kxstudio-repos-gcc5 kxstudio-repos-gcc5 kxstudio-repos kxstudio-repos 
+kxstudio-debian/libs #libgcrypt11:i386 flac wine-mono4.5.6 wine-mono4.5.6 rubberband-cli libjpeg8:i386 wine-rt-amd64 winetricks winetricks lzma libgnutls26 wine-gecko2.40 libjack-jackd2-0 projectm-data projectm-data xz-utils libtiff-tools udev libjpeg8 libgnutls-openssl27 libjpeg8-dev libffado2 libgphoto2-6:i386 jackd2-firewire libtiff4 python-wxversion python-wxversion wine-gecko2.40:i386 libgnutls26:i386 libgphoto2-6 libgcrypt11 libicu-dev libgudev-1.0-0 libjpeg-progs libjack-jackd2-0:i386 libjpeg-dev libgphoto2-l10n libgphoto2-l10n libtiffxx0c2 wine-rt-i386:i386 wine-rt-i386:i386 wine-rt jackd2 
+kxstudio-debian/music #hydrogen-drumkits-effects hydrogen-drumkits-effects hydrogen-drumkits hydrogen-drumkits 
+kxstudio-debian/plugins #zynaddsubfx zynaddsubfx swh-plugins swh-plugins 
+mmolch/ppa #mmolch-thumbnailers mmolch-thumbnailers 
+nilarimogard/webupd8 #yad pulseaudio-equalizer pulseaudio-equalizer winusb browser-plugin-freshplayer-pepperflash caffeine-plus caffeine-plus youtube-dlg youtube-dlg youtube-dl youtube-dl 
+otto-kesselgulasch/gimp-edge #gimp-help-en-gb gimp-help-en-gb gimp-gmic libbabl-0.1-0 gimp-help-en gimp-help-en gimp-help-ru gimp-help-ru gimp-help-common gimp-help-common gimp-plugin-registry liblcms2-dev gimp-data gimp-data liblcms2-2 gimp libmypaint libwebpmux2 libpng12-0:i386 gmic libwebp6 libpng12-0 libgimp2.0 liblcms2-2:i386 libpng12-dev libwebpdemux2 libgegl-0.3-0 
+plushuang-tw/uget-stable #uget 
+pmjdebruijn/darktable-release #darktable-dbg libexiv2-14 liblensfun0 liblensfun-data liblensfun-data darktable 
+rvm/smplayer #smtube youtube-dl youtube-dl 
+scribus/ppa #scribus-ng-doc scribus-ng-doc scribus-ng scribus-ng-data scribus-ng-data 
+starws-box/deadbeef-player #deadbeef-plugins-dev deadbeef-plugins-dev deadbeef 
+stebbins/handbrake-releases #handbrake-cli handbrake-gtk 
+team-xbmc/ppa #libcec4 libshairplay0 libp8-platform2 kodi-pvr-iptvsimple projectm-data projectm-data libcrossguid1 kodi kodi kodi-audioencoder-lame kodi-audioencoder-flac kodi-bin 
+teejee2008/ppa #aptik ukuu 
+thomas-schiex/blender #blender libopenshadinglanguage1.7 libopensubdiv 
+ubuntuhandbook1/audacity #audacity audacity-data audacity-data 
+ubuntuhandbook1/sigil #sigil-data sigil-data sigil 
+webupd8team/java #oracle-java8-installer oracle-java8-installer oracle-java8-set-default oracle-java8-set-default 
+webupd8team/nemo #nemo cinnamon-translations cinnamon-translations python-nemo nemo-data nemo-data nemo-hide nemo-hide libnemo-extension1 nemo-fileroller gir1.2-nemo-3.0 
+webupd8team/sublime-text-3 #sublime-text-installer sublime-text-installer 
+xubuntu-dev/extras #libxfdashboard0 xfdashboard xfdashboard-plugins 
+yannubuntu/boot-repair #boot-sav boot-sav glade2script glade2script os-uninstaller os-uninstaller boot-repair boot-repair boot-sav-extra boot-sav-extra 
+yg-jensge/shotwell #libasprintf-dev gvfs-backends libgettextpo0 gvfs-bin autopoint autopoint gir1.2-gexiv2-0.10 libexiv2-14 gettext gettext-base gvfs-daemons gvfs gvfs-common gvfs-common gvfs-libs libgettextpo-dev libgexiv2-2 gvfs-fuse shotwell libasprintf0v5 
