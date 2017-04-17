@@ -11,11 +11,7 @@ Deepin 15 после установки
 Дистрибутив <b>Deepin 15</b> китайской разработки,  основанный на пакетной базе <b>Debian "jessie"</b> (ранее на Ubuntu), и развивает собственное рабочее окружение рабочего стола <b>DDE</b> - <b>D</b>eepin <b>D</b>esktop <b>E</b>nvironment, с оконным менеджером <b>Gala</b> (форк Mutter), а также некоторыми собственными приложениями.<br />
 <div>
 После первого входа, система практически готова для работы. В ней установлены по умолчанию все необходимые приложения: веб-браузер <b>Google Chrome</b> с кодеками для просмотра видео, мультимедийные приложения для прослушивания музыки и просмотра видео файлов, офисные приложения для печати и пр., всё то, что нужно нужно пользователю за компьютером для комфортной и полноценной работы.<br />
-<div>
-<a name='more'></a><br /></div>
-<div>
-В данной статье я не стану делать обзор дистрибутива, кому это интересно, могут посмотреть мою обзорную статью <b><a href="http://compizomania.blogspot.com/2016/01/deepin-15.html" target="_blank">ЗДЕСЬ</a></b>. А перейду к некоторым важным настройкам системы после установки.</div>
-<div>
+
 <br /></div>
 <div>
 <b><span style="font-size: large;">1. Автовход в систему</span></b></div>
@@ -257,4 +253,25 @@ Deepin 15 после установки
 <br />
 Таким образом можно найти и установить программы не заявленные в&nbsp;<b>Deepin Store</b>.<br />
 <br />
+<p>Многим людям нравится операционная система Windows, особенно игроманам, да винда заточена под игры, но по причине глючности и не бесплатности Windows, очень много пользователей переходят на Linux.</p>
+<p><span id="more-1225"></span></p>
+<p>И многим пользователям будет легче перейти на Linux, с рабочим столом похожим на Windows.</p>
+<p>Linux &#8212; это некий конструктор, из которого можно слепить что угодно. Существует очень большое количество тем для Linux, не исключение и тема иконок Windows 10 для разных дистрибутивов, эту тему я уже выкладывал на сайте в статье &#171;<a href="http://linuxthebest.net/top-10-tem-v-ubuntu-16-04/" target="blank">Топ 10 тем которые стоит установить в Ubuntu/Linux Mint</a>&#171;.</p>
+<p>Но дистрибутив <strong>Deepin 15.3</strong> использует свой файловый менеджер и свой лаунчер запуска меню приложений, поэтому тема не очень подходит для этого дистрибутива. Но я переработал существующую тему иконок <strong>Windows 10</strong> под операционную систему <strong>Deepin</strong>, пришлось даже научится рисовать собственные значки в Adobe Illustrator.</p>
+<p>Давайте уже приступим.</p>
+<p>Для начала скачайте <strong><a href="https://mega.nz/#!O4F3kSjD!e77TjmrtAgFK9a_rvdI9m7tpJG5ysHAEWCUmL_B_yTM" target="blank">тему иконок Windows 10</a></strong>, а также <strong><a href="https://mega.nz/#!j9FTFCjI!0FMVhVIY9YI07VKY2MGID4iZLvMHGBRqyvBwBSXALbA" target="blank">официальные обои</a></strong>.</p>
+<p>Распаковываем оба архива, любым способом, например нажатием правой кнопкой мышки на архив и в выпадающем меню выбираем &#171;Извлечь сюда&#187;.</p>
+<p>Далее открываем терминал и переходим в директорию загрузок</p>
+<pre>cd Downloads</pre>
+<p>и простой командой копируем сначала тему иконок</p>
+<pre>sudo cp -r Windows10-icons /usr/share/icons/</pre>
+<p>далее переходим в директорию скачаных обоев и копируем обои.</p>
+<pre>cd Windows-10-official-wallpaper</pre>
+<pre>sudo cp *.jpg /usr/share/wallpapers/deepin/</pre>
+<p>Открываем <strong>Центр управления-Персонализация-темы иконок</strong> выбираем нашу тему <strong>Windows10-icons</strong>, также если нажать на рабочем столе правой кнопкой мышки и в выпадающем меню выбрать &#171;<strong>Set wallpaper</strong>&#171;, то можем выбрать обои на рабочий стол как и в windows 10, и последнее, нажимаем правой кнопкой на Dock-панели и выбираем режим <strong>Mode-Efficient Mode</strong>, чтобы растянуть панель на всю ширину.</p>
+<p><a href="http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407.png"><img data-attachment-id="1273" data-permalink="http://linuxthebest.net/prevrashhaem-deepin-15-3-v-windows-10/prilozhenie-dlya-snimkov-yekrana-deepin-20160917214407/" data-orig-file="http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407.png" data-orig-size="1920,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="prilozhenie-dlya-snimkov-yekrana-deepin-20160917214407" data-image-description="" data-medium-file="http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-300x188.png" data-large-file="http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-1024x640.png" class="aligncenter size-large wp-image-1273" src="http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-1024x640.png" alt="windows" width="760" height="475" srcset="http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-1024x640.png 1024w, http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-300x188.png 300w, http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-768x480.png 768w, http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-760x475.png 760w, http://linuxthebest.net/wp-content/uploads/2016/09/Prilozhenie-dlya-snimkov-yekrana-Deepin-20160917214407-348x218.png 348w" sizes="(max-width: 760px) 100vw, 760px" /></a></p>
+<p><strong>C 5:08 начинается превращение в windows, так что если хотите посмотрите.</strong></p>
+<p><iframe src="https://www.youtube.com/embed/n0_AbvjGdMI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Вот и все, вот так легко сделать наш дистрибутив линукс похожим на виндовс. Всем удачи.</p>
+
 Удачи.</div>
